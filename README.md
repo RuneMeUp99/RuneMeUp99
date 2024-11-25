@@ -3,18 +3,16 @@
 ---
 
 ## 🌈 About Me
-Hello, wonderful people! My name is **Christian Hatton**, and I'm a self-taught programmer, entrepreneur, and financialist with Old School RuneScape as a hobby. I write articles on medium and make posts on twitter daily.
+Hello, wonderful people! My name is **Christian Hatton**, and I'm a self-taught programmer, entrepreneur, and financialist.
+
+I write articles on medium and make posts on twitter daily.
 
 ---
 
 ## 💬 Join My Discord:
 
----
 
-## 🐦 Follow me or Contact Me:
-
-
----
+--
 
 I run the [INS8NE N8TION]() discord. It's a community where you can collaborate with gamers, coders, entrepreneurs, and regular people. My first goal is to get more members. The current member count is only 3. Feel free to join.
 
