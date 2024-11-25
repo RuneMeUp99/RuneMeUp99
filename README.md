@@ -5,6 +5,11 @@
 ## 🌈 About Me
 Hello, wonderful people! My name is **Christian Hatton**, and I'm a self-taught programmer with 16 years of experience. I started with a DevRy college course at age 10, and I have been having fun ever since. I post on twitter daily and I write informational articles on the platform medium. I am dedicated to contributing to open source projects and stack overflow as much as possible. Although, my stack overflow is fairly new. I created the account on November 25th, 2024.
 
+I run the [INS8NE N8TION]() discord. It's a community where you can collaborate with gamers, coders, entrepreneurs, and regular people. My first goal is to get more members. The current member count is only 3. Feel free to join.
+
+Here's how we all are in the discord so you can get a feel for the server:
+I'm a coder and entrepreneur with constant ideas, my buddy Nick is a designer and artist with dreams of a marketing degree, and my brother is a younger AVID gamer who plays golf and does school.
+
 ---
 
 ## 💻 My Skills
