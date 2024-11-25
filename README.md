@@ -3,21 +3,20 @@
 ---
 
 ## 🌈 About Me
-Hello, wonderful people! My name is **Not Insane**, and I'm a self-taught programmer navigating a challenging chapter in my life. I create Python scripts and write articles to help others while also seeking support to get back on my feet.
-
-### 🏞️ My Story
-A few months ago, I faced a situation I didn’t deserve. I was wrongfully arrested for a hit-and-run incident I didn’t commit, which led to **six months in jail**. During that time, I lost all my documents and everything I owned. Since then, I’ve been **homeless for two weeks**, but I’m currently staying in a safe place that offers **food, showers, and beds**.
-
-I’m sharing my story not just to seek help but to showcase my resilience and determination to rebuild my life. I’m actively working to get my documents sorted so I can secure a job and continue my journey as a programmer.
+Hello, wonderful people! My name is **Christian Hatton**, and I'm a self-taught programmer with 16 years of experience. I started with a DevRy college course at age 10, and I have been having fun ever since. I post on twitter daily and I write informational articles on the platform medium. I am dedicated to contributing to open source projects and stack overflow as much as possible. Although, my stack overflow is fairly new. I created the account on November 25th, 2024.
 
 ---
 
 ## 💻 My Skills
-I'm proficient in several programming languages and frameworks:
+I am proficient in several things:
 - **Python**: Specializing in automation scripts and data analysis tasks. I offer custom Python scripts for various needs.
-- **JavaScript**: My go-to language for web development, particularly with frameworks like Node.js.
-- **Node.js**: I created the **League of Legends Toolbelt**, an Alexa skill providing game-related information using voice commands. 🎮
-- **Java & Kotlin**: Experienced in mobile app development, focusing on building Android applications.
+- **JavaScript**: My go-to language for web development, particularly with frameworks like Node.js and next.js.
+- **Node.js**: I created the **League of Legends Toolbelt**, an Alexa skill providing game-related information using voice commands. 🎮 it is outdated because I created it 9 years ago, but unfortunately, we lost the logins to the account, so we can't edit the skill.
+- **Java & Kotlin**: Experienced in Java development with a focus on creating things for the game Old School RuneScape.
+- **Writing**: I write professional articles that are catered to keeping users reading.
+- **Social Media**: I am very experienced in running professional social media accounts.
+- **Organization**: I am good at organizing events (such as to represent your business or product).
+- **Graphic Design**: I have some college experience in graphic design as this was going to be my major. I can't create you a fresh painting, but I am very good at editing what you already have.
 
 ---
 
