@@ -11,12 +11,11 @@ I write articles on medium and make posts on twitter daily.
 
 ## 💬 Join My Discord:
 
+[The [INS8NE N8TION]() discord server is a community where you can collaborate with gamers, coders, entrepreneurs, financialists, and regular people.
 
---
+### 
 
-I run the [INS8NE N8TION]() discord. It's a community where you can collaborate with gamers, coders, entrepreneurs, and regular people. My first goal is to get more members. The current member count is only 3. Feel free to join.
-
-Here's how we all are in the discord so you can get a feel for the server:
+### Get a feel for the server:
 I'm a coder and entrepreneur with constant ideas, my buddy Nick is a designer and artist with dreams of a marketing degree, and my brother is a younger AVID gamer who plays golf and does school.
 
 ---
