@@ -3,7 +3,18 @@
 ---
 
 ## 🌈 About Me
-Hello, wonderful people! My name is **Christian Hatton**, and I'm a self-taught programmer with 16 years of experience. I started with a DevRy college course at age 10, and I have been having fun ever since. I post on twitter daily and I write informational articles on the platform medium. I am dedicated to contributing to open source projects and stack overflow as much as possible. Although, my stack overflow is fairly new. I created the account on November 25th, 2024.
+Hello, wonderful people! My name is **Christian Hatton**, and I'm a self-taught programmer, entrepreneur, and financialist with Old School RuneScape as a hobby. I write articles on medium and make posts on twitter daily.
+
+---
+
+## 💬 Join My Discord:
+
+---
+
+## 🐦 Follow me or Contact Me:
+
+
+---
 
 I run the [INS8NE N8TION]() discord. It's a community where you can collaborate with gamers, coders, entrepreneurs, and regular people. My first goal is to get more members. The current member count is only 3. Feel free to join.
 
