@@ -41,7 +41,6 @@ I believe in the power of collaboration. If you're looking for someone to work o
 I’m currently in a position where every bit helps. I need funds for food and to get my documents in order. If you feel compelled to support me, any donations would be immensely appreciated. Here are my donation options:
 - **PayPal**: [paypal.me/NotIns8ne](https://paypal.me/NotIns8ne)
 - **Venmo**: @hattoncm
-- **Buy Me a Coffee**: [NotIns8ne](https://www.buymeacoffee.com/NotIns8ne)
 - **CashApp**: [$notinsane81482](https://cash.app/$notinsane81482)
 
 ---
