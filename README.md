@@ -1,11 +1,9 @@
-# 👋 Welcome to My GitHub
+# 👋 Welcome to My GitHub!
 
 ---
 
-## 🌈 About Me
-Hello, wonderful people! My name is **Christian Hatton**, and I'm a self-taught programmer, entrepreneur, and financialist with dreams of one day retiring early.
-
-I write articles on medium for fun based on what I'm researching or learning.
+## 👤 About Me
+Hello, wonderful people! My name is **[Christian M Hatton](https://www.facebook.com/notinsane81482?mibextid=ZbWKwL) and I am a self-taught programmer and entrepreneur.
 
 ---
 
@@ -51,7 +49,7 @@ When I’m not coding, I enjoy playing **Old School RuneScape**. It's a great wa
 ---
 
 ## 📝 My Resume
-I may not have a formal degree, but I'm a high achiever with a **4.0 GPA** from my time at the Los Angeles Film School in 2021, where I studied graphic design for nine months. I had to dropped out because it was too easy and I got bored. I've worked at companies where I had a technologically responsible job a several times. The first time was for a clothing company "Knitted Belle" where I worked on emails, domains, websites, and created designs for other companies' businesses. My mom is the owner. She is a women's business coach. The second time I worked a tech job was when I worked for "Platinum Property Management" in Wisconsin Rapids. I managed the website, redid all of their graphic design work, did customer support on the phone, went to events, and remodeled properties! And, the THIRD time I had a tech job was when I worked for myself doing graphic design! I built the business Vivid Design Co from the ground up in 2021 for about a year. I considered it a startup failure because I only made $800 in a couple months and I found it hard to find customers who needed logos done there are so many sites you can go to and do it yourself for cheap. I did do some cool projects for [Central Wisconsin Symphony Orchestra]() and I got to see my designs plastered all over their events! And, ... NOW, I'm working on ins8ne N8tion! It is basically the I/O hub for the things I create as a digital creator ;)
+I may not have a formal degree, but I'm a high achiever with a **4.0 GPA** from my time at the Los Angeles Film School in 2021, where I studied graphic design for nine months. I had to dropped out because it was too easy and I got bored. I've worked at companies where I had a technologically responsible job a several times. The first time was for a clothing company "Knitted Belle" where I worked on emails, domains, websites, and created designs for other companies' businesses. My mom is the owner. She is a women's business coach. The second time I worked a tech job was when I worked for "Platinum Property Management" in Wisconsin Rapids. I managed the website, redid all of their graphic design work, did customer support on the phone, went to events, and remodeled properties! And, the THIRD time I had a tech job was when I worked for myself doing graphic design! I built the business Vivid Design Co from the ground up in 2021 for about a year. I considered it a startup failure because I only made $800 in a couple months and I found it hard to find customers who needed logos done there are so many sites you can go to and do it yourself for cheap. I did do some cool projects for [Central Wisconsin Symphony Orchestra](https://www.facebook.com/cwsorchestra?mibextid=ZbWKwL) and I got to see my designs plastered all over their events! And, ... NOW, I'm working on ins8ne N8tion! It is basically the I/O hub for the things I create as a digital creator ;)
 
 ---
 
