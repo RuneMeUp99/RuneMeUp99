@@ -5,18 +5,13 @@
 ## 🌈 About Me
 Hello, wonderful people! My name is **Christian Hatton**, and I'm a self-taught programmer, entrepreneur, and financialist with dreams of one day retiring early.
 
-I write articles on medium and make posts on social medias daily.
-
-I am constantly looking for something to do.
-
-I currently don't have a job because I'm homeless and I'm waiting on my documents to get a job, so I'm building Ins8ne N8tion, researching, and posting to the social media accounts.
+I write articles on medium for fun based on what I'm researching or learning.
 
 ---
 
-### 
+## 🎓 Current Work/Life:
 
-### Get a feel for the server:
-I'm a coder and entrepreneur with constant ideas, my buddy Nick is a designer and artist with dreams of a marketing degree, and my brother is a younger AVID gamer who plays golf and does school.
+I am currently jobless because I'm homeless and I'm waiting on my documents to arrive so I can get a job, so I'm building [Ins8ne N8tion](https://discord.gg/TXjwEXzGGv), researching productivity and its uses within technology internally and externally, and posting to my social media accounts with content relevant to everything you will read on this page.
 
 ---
 
@@ -30,15 +25,7 @@ I am proficient in several things:
 - **Social Media**: I am very experienced in running professional social media accounts.
 - **Organization**: I am good at organizing events (such as to represent your business or product).
 - **Graphic Design**: I have some college experience in graphic design as this was going to be my major. I can't create you a fresh painting, but I am very good at editing what you already have.
-
----
-
-## 📜 Articles & Scripts for Sale
-I’m dedicated to producing high-quality scripts and insightful articles for anyone looking to enhance their projects. If you're interested in custom Python scripts or programming articles, please feel free to reach out!
-
-### 💰 Pricing Suggestions
-- **Custom Python Scripts**: Starting at **$20** depending on complexity.
-- **In-Depth Articles**: Prices vary based on length and research, typically around **$10 - $50**.
+- **Business and Brand Optimization**: I can redesign and restructure your entire company from the ground up and optimize it for the future.
 
 ---
 
@@ -46,11 +33,6 @@ I’m dedicated to producing high-quality scripts and insightful articles for an
 I believe in the power of collaboration. If you're looking for someone to work on projects with, I’d love to team up! Whether it’s building tools, apps, or exploring new technologies, feel free to reach out:
 - **Email**: [c63513389@gmail.com](mailto:c63513389@gmail.com) or **Text Me**: 913-217-5149
 My handles are all the same on social media as well: @notinsane81482 on Twitter, Instagram, Facebook, and YouTube.
-
----
-
-## Check out my latest Medium articles!
-
 
 
 ---
@@ -64,19 +46,14 @@ If you feel compelled to support me, any donations would be immensely appreciate
 ---
 
 ## 🎮 Hobbies
-When I’m not coding, I enjoy playing **Old School RuneScape**. It's a great way for me to unwind and connect with friends. Gaming keeps my spirits up during tough times! I'm really interested in runelite plugin creating as well, so you'll see more of that in the future.
+When I’m not coding, I enjoy playing **Old School RuneScape**. It's a great way for me to unwind and connect with friends. I'm really interested in runelite plugin creating as well, so you'll see more of that in the future.
 
 ---
 
 ## 📝 My Resume
-I may not have a formal degree, but I'm a high achiever with a **4.0 GPA** from my time at the Los Angeles Film School, where I studied graphic design for nine months. I had to drop out due to my circumstances, but I’m committed to rebuilding my life. I've worked at companies where I had a tech job. The first one was a clothing company where I worked on emails, domains, websites, and created designs for other companies' businesses. The second one was working for a property management as a tech guy and a support agent. Both were super fun. I love this industry.
-
----
-
-## 📦 Plugin Hub
-I plan to create a **plugin hub** that will manage all my projects and plugins efficiently. This hub will serve as a central location for my various tools and applications, making it easy for users to find and utilize them. Stay tuned for updates on this feature!
+I may not have a formal degree, but I'm a high achiever with a **4.0 GPA** from my time at the Los Angeles Film School in 2021, where I studied graphic design for nine months. I had to dropped out because it was too easy and I got bored. I've worked at companies where I had a technologically responsible job a several times. The first time was for a clothing company "Knitted Belle" where I worked on emails, domains, websites, and created designs for other companies' businesses. My mom is the owner. She is a women's business coach. The second time I worked a tech job was when I worked for "Platinum Property Management" in Wisconsin Rapids. I managed the website, redid all of their graphic design work, did customer support on the phone, went to events, and remodeled properties! And, the THIRD time I had a tech job was when I worked for myself doing graphic design! I built the business Vivid Design Co from the ground up in 2021 for about a year. I considered it a startup failure because I only made $800 in a couple months and I found it hard to find customers who needed logos done there are so many sites you can go to and do it yourself for cheap. I did do some cool projects for [Central Wisconsin Symphony Orchestra]() and I got to see my designs plastered all over their events! And, ... NOW, I'm working on ins8ne N8tion! It is basically the I/O hub for the things I create as a digital creator ;)
 
 ---
 
 ## 🤗 Connect with Me
-I’m a calm, collected, and caring person who believes in building connections and optimizing things we use every day. Thank you for taking the time to read my story.
+I’m a calm, collected, and caring person who is good at building relationships and creating things or taking them to newer heights! Thank you for taking the time to read my story.
