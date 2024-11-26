@@ -1,11 +1,15 @@
-# 👋 Welcome to **Not Insane's** GitHub Profile!
+# 👋 Welcome to My GitHub
 
 ---
 
 ## 🌈 About Me
-Hello, wonderful people! My name is **Christian Hatton**, and I'm a self-taught programmer, entrepreneur, and financialist.
+Hello, wonderful people! My name is **Christian Hatton**, and I'm a self-taught programmer, entrepreneur, and financialist with dreams of one day retiring early.
 
-I write articles on medium and make posts on twitter daily.
+I write articles on medium and make posts on social medias daily.
+
+I am constantly looking for something to do.
+
+I currently don't have a job because I'm homeless and I'm waiting on my documents to get a job, so I'm building Ins8ne N8tion, researching, and posting to the social media accounts.
 
 ---
 
@@ -44,27 +48,32 @@ I’m dedicated to producing high-quality scripts and insightful articles for an
 
 ## 🤝 Let's Collaborate!
 I believe in the power of collaboration. If you're looking for someone to work on projects with, I’d love to team up! Whether it’s building tools, apps, or exploring new technologies, feel free to reach out:
-- **Email**: [c63513389@gmail.com](mailto:c63513389@gmail.com)
-- **Phone**: 913-217-5149
-- **Discord**: NotInsane81482
+- **Email**: [c63513389@gmail.com](mailto:c63513389@gmail.com) or **Text Me**: 913-217-5149
+My handles are all the same on social media as well: @notinsane81482 on Twitter, Instagram, Facebook, and YouTube.
+
+---
+
+## Check out my latest Medium articles!
+
+
 
 ---
 
 ## 💰 Donations Appreciated
-I’m currently in a position where every bit helps. I need funds for food and to get my documents in order. If you feel compelled to support me, any donations would be immensely appreciated. Here are my donation options:
-- **PayPal**: [paypal.me/NotIns8ne](https://paypal.me/NotIns8ne)
+If you feel compelled to support me, any donations would be immensely appreciated. Here are my donation options:
+- **PayPal.me**: [NotIns8ne](https://paypal.me/NotIns8ne)
 - **Venmo**: @hattoncm
 - **CashApp**: [$notinsane81482](https://cash.app/$notinsane81482)
 
 ---
 
 ## 🎮 Hobbies
-When I’m not coding, I enjoy playing **RuneScape**. It's a great way for me to unwind and connect with friends. Gaming keeps my spirits up during tough times!
+When I’m not coding, I enjoy playing **Old School RuneScape**. It's a great way for me to unwind and connect with friends. Gaming keeps my spirits up during tough times! I'm really interested in runelite plugin creating as well, so you'll see more of that in the future.
 
 ---
 
 ## 📝 My Resume
-I may not have a formal degree, but I'm a high achiever with a **4.0 GPA** from my time at the Los Angeles Film School, where I studied graphic design for nine months. I had to drop out due to my circumstances, but I’m committed to rebuilding my life.
+I may not have a formal degree, but I'm a high achiever with a **4.0 GPA** from my time at the Los Angeles Film School, where I studied graphic design for nine months. I had to drop out due to my circumstances, but I’m committed to rebuilding my life. I've worked at companies where I had a tech job. The first one was a clothing company where I worked on emails, domains, websites, and created designs for other companies' businesses. The second one was working for a property management as a tech guy and a support agent. Both were super fun. I love this industry.
 
 ---
 
@@ -74,14 +83,4 @@ I plan to create a **plugin hub** that will manage all my projects and plugins e
 ---
 
 ## 🤗 Connect with Me
-I’m a calm, collected, and caring person who believes in building connections. I hope to create an inviting space here on GitHub where you feel comfortable reaching out. Thank you for taking the time to read my story. Your support means the world to me!
-
----
-
-## 🌟 Thank You!
-Thank you for considering helping me during this time. Every contribution makes a difference and helps me get closer to a stable life again. Let’s code and create some amazing things together! 🚀
-
----
-
-### 📌 Links
-- **GitHub Profile**: [Not Ins8ne](https://github.com/NotIns8ne)
+I’m a calm, collected, and caring person who believes in building connections and optimizing things we use every day. Thank you for taking the time to read my story.
