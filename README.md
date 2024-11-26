@@ -13,10 +13,6 @@ I currently don't have a job because I'm homeless and I'm waiting on my document
 
 ---
 
-## 💬 Join My Discord:
-
-[The [INS8NE N8TION]() discord server is a community where you can collaborate with gamers, coders, entrepreneurs, financialists, and regular people.
-
 ### 
 
 ### Get a feel for the server:
