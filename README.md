@@ -9,11 +9,6 @@ I am a full-stack developer specializing in AI. I have experience with machine l
 - Languages: 
 - Last Updated: 2024-12-30
 
-### [NotIns8ne](https://github.com/NotIns8ne/NotIns8ne)
-- Description: Config files for my GitHub profile.
-- Languages: 
-- Last Updated: 2024-11-26
-
 ## Open Source Contributions
 
 ## Contact
