@@ -12,7 +12,7 @@ Welcome to my GitHub profile! Here's a snapshot of my public repositories:
 ---
 
 ## SyntaxSkater
-**Description:** Config files for my GitHub profile.
+**Description:** Config files for my GitHub profile you see at https://github.com/SyntaxSkater
 
 **Languages:** No languages detected
 
