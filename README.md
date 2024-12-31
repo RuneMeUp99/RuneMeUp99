@@ -1,7 +1,22 @@
-# NotIns8ne's GitHub Profile
+# Hi, I'm SyntaxSkater 👋
 
-## About Me
-I am a Full-Stack Developer specializing in AI. I am passionate about building efficient solutions using the latest technologies and optimizing everything I work on.
+Welcome to my GitHub profile! Here's a snapshot of my public repositories:
 
-## Recent Repositories
-- **[github-readme-auto-update](https://github.com/NotIns8ne/github-readme-auto-update)**: Automatically updates my Github profile README so I don't have to. (Languages: , Last Updated: 2024-12-30 20:55:07, Visibility: Public)
+## github-readme-auto-update
+**Description:** Automatically updates my Github profile README so I don't have to.
+
+**Languages:** Python
+
+**Last Updated:** 2024-12-31
+
+---
+
+## SyntaxSkater
+**Description:** Config files for my GitHub profile.
+
+**Languages:** No languages detected
+
+**Last Updated:** 2024-12-31
+
+---
+
