@@ -9,6 +9,8 @@ Welcome to my GitHub profile! Here's a snapshot of my public repositories:
 
 **Last Updated:** 2024-12-31
 
+[View Repository](https://github.com/SyntaxSkater/github-readme-auto-update)
+
 ---
 
 ## SyntaxSkater
@@ -17,6 +19,8 @@ Welcome to my GitHub profile! Here's a snapshot of my public repositories:
 **Languages:** No languages detected
 
 **Last Updated:** 2024-12-31
+
+[View Repository](https://github.com/SyntaxSkater/SyntaxSkater)
 
 ---
 
