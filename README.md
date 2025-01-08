@@ -2,6 +2,15 @@
 
 Welcome to my GitHub profile! Here's a snapshot of my public repositories:
 
+## chatgpt-optimizer-chrome-extension
+**Description:** Optimize ChatGPT interactions and extend memory for personalized usage.
+
+**Languages:** No languages detected
+
+**Last Updated:** 2025-01-06
+
+---
+
 ## github-readme-auto-update
 **Description:** Automatically updates my Github profile README so I don't have to.
 
@@ -9,7 +18,14 @@ Welcome to my GitHub profile! Here's a snapshot of my public repositories:
 
 **Last Updated:** 2024-12-31
 
-[View Repository](https://github.com/SyntaxSkater/github-readme-auto-update)
+---
+
+## runelite
+**Description:** Open source Old School RuneScape client
+
+**Languages:** Java, GLSL, C, Witcher Script, Shell
+
+**Last Updated:** 2025-01-07
 
 ---
 
@@ -19,8 +35,6 @@ Welcome to my GitHub profile! Here's a snapshot of my public repositories:
 **Languages:** No languages detected
 
 **Last Updated:** 2024-12-31
-
-[View Repository](https://github.com/SyntaxSkater/SyntaxSkater)
 
 ---
 
