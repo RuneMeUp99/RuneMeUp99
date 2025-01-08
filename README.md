@@ -2,6 +2,15 @@
 
 Welcome to my GitHub profile! Here's a snapshot of my public repositories:
 
+## api-endpoint-scanner
+**Description:** Scans a base URL and finds all the endpoints associated with it
+
+**Languages:** No languages detected
+
+**Last Updated:** 2025-01-08
+
+---
+
 ## chatgpt-optimizer-chrome-extension
 **Description:** Optimize ChatGPT interactions and extend memory for personalized usage.
 
@@ -34,7 +43,7 @@ Welcome to my GitHub profile! Here's a snapshot of my public repositories:
 
 **Languages:** No languages detected
 
-**Last Updated:** 2024-12-31
+**Last Updated:** 2025-01-08
 
 ---
 
