@@ -5,7 +5,7 @@ Welcome to my GitHub profile! Here's a snapshot of my public repositories:
 ## api-endpoint-scanner
 **Description:** Scans a base URL and finds all the endpoints associated with it
 
-**Languages:** No languages detected
+**Languages:** Python
 
 **Last Updated:** 2025-01-08
 
