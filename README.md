@@ -57,7 +57,7 @@ Welcome to my GitHub profile! Here's a snapshot of my public repositories:
 ---
 
 ## teaching-a-computer
-**Description:** No description available.
+**Description:** I am going to train my computer.
 
 **Languages:** Python
 
