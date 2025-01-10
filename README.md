@@ -38,6 +38,15 @@ Welcome to my GitHub profile! Here's a snapshot of my public repositories:
 
 ---
 
+## osrs_ge_scraper
+**Description:** A Python package to scrape the Old School RuneScape Grand Exchange API
+
+**Languages:** Python
+
+**Last Updated:** 2025-01-10
+
+---
+
 ## runelite
 **Description:** Open source Old School RuneScape client
 
