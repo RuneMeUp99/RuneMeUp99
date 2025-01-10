@@ -7,7 +7,7 @@ Welcome to my GitHub profile! Here's a snapshot of my public repositories:
 
 **Languages:** Python
 
-**Last Updated:** 2025-01-08
+**Last Updated:** 2025-01-09
 
 ---
 
@@ -26,6 +26,15 @@ Welcome to my GitHub profile! Here's a snapshot of my public repositories:
 **Languages:** Python
 
 **Last Updated:** 2024-12-31
+
+---
+
+## my-first-runelite-plugin
+**Description:** https://github.com/runelite/runelite/wiki/Developer-Guide
+
+**Languages:** Java
+
+**Last Updated:** 2025-01-09
 
 ---
 
