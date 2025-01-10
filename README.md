@@ -52,7 +52,16 @@ Welcome to my GitHub profile! Here's a snapshot of my public repositories:
 
 **Languages:** No languages detected
 
-**Last Updated:** 2025-01-08
+**Last Updated:** 2025-01-10
+
+---
+
+## teaching-a-computer
+**Description:** No description available.
+
+**Languages:** Python
+
+**Last Updated:** 2025-01-10
 
 ---
 
