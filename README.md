@@ -25,6 +25,7 @@ A tool for getting started with RuneLite plugin development. It generates all th
 
 - **JavaScript**: Diving deeper into front-end development and JavaScript frameworks.
 - **React**: Exploring React and its powerful tools for building interactive UIs.
+- **Boot.dev**: Plan on starting this backend bootcamp by 3/9/2025
 
 ### ☕ Support My Work
 
