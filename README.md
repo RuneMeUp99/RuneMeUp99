@@ -34,6 +34,6 @@ If you like what I do, you can support me by buying me a coffee!
 ### 📫 Get In Touch
 
 - Email: [RuneMeUp99@gmail.com](mailto:runemeup99@gmail.coml@gmail.com)
-- LinkedIn: [Christian Hatton](https://www.linkedin.com/in/runemeup99)
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/runemeup99)
 
 ![RuneMeUp99's GitHub stats](https://github-readme-stats.vercel.app/api?username=RuneMeUp99&show_icons=true&hide_title=true)
