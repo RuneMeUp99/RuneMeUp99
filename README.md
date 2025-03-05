@@ -26,6 +26,11 @@ A tool for getting started with RuneLite plugin development. It generates all th
 - **JavaScript**: Diving deeper into front-end development and JavaScript frameworks.
 - **React**: Exploring React and its powerful tools for building interactive UIs.
 
+### ☕ Support My Work
+
+If you like what I do, you can support me by buying me a coffee!  
+[Buy me a coffee ☕](https://buymeacoffee.com/runemeup99)
+
 ### 📫 Get In Touch
 
 - Email: [RuneMeUp99@gmail.com](mailto:runemeup99@gmail.coml@gmail.com)
