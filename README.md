@@ -1,6 +1,6 @@
 # Hi, I'm Rune Me Up99 👋
 
-Here are some of the things I've been working on:
+Here are some of the things I've been working on (latest first):
 
 - [QR Code Component](https://github.com/RuneMeUp99/Frontend-Mentor-QR-code-component) challenge by [frontendmentor.io](frontendmentor.io) (made w/ html and css)
 - [Runelite Plugin Skeleton](https://github.com/RuneMeUp99/runelite-plugin-skeleton) made with Python : CLI for creating [Runelite](https://github.com/runelite/runelite) plugins
