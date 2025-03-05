@@ -28,7 +28,7 @@ A tool for getting started with RuneLite plugin development. It generates all th
 
 ### 📫 Get In Touch
 
-- Email: [awaiting business email](mailto:c63513389l@gmail.com)
+- Email: [RuneMeUp99@gmail.com](mailto:runemeup99@gmail.coml@gmail.com)
 - LinkedIn: [Christian Hatton](https://www.linkedin.com/in/runemeup99)
 
 ![RuneMeUp99's GitHub stats](https://github-readme-stats.vercel.app/api?username=RuneMeUp99&show_icons=true&hide_title=true)
