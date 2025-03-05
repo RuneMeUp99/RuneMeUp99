@@ -15,17 +15,15 @@ A tool for getting started with RuneLite plugin development. It generates all th
 
 ### 🛠️ Technologies & Tools
 
-- **Languages**: Python, JavaScript (currently learning)
-- **Frameworks/Libraries**: React, Flask
+- **Languages**: Python, JavaScript
+- **Frameworks/Libraries**: React, Next.js
 - **Version Control**: Git, GitHub
-- **Databases**: MySQL, SQLite
-- **IDE**: Visual Studio Code, IntelliJ IDEA
+- **Databases**: -
+- **IDE**: Visual Studio Code
 
 ### 🌱 Currently Learning
 
-- **JavaScript**: Diving deeper into front-end development and JavaScript frameworks.
-- **React**: Exploring React and its powerful tools for building interactive UIs.
-- **Boot.dev**: Plan on starting this backend bootcamp by 3/9/2025
+- **[I Just Want To Get Hired | Zero to Mastery](https://zerotomastery.io/career-paths/i-just-want-to-get-hired/)**
 
 ### ☕ Support My Work
 
