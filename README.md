@@ -5,7 +5,7 @@ I'm a developer with a passion for **Python** and **front-end development**. I l
 ### 🚀 Recent Projects
 
 #### 📦 [QR Code Component](https://github.com/RuneMeUp99/Frontend-Mentor-QR-code-component)  
-A fun challenge from [FrontendMentor.io](https://frontendmentor.io) where I built a responsive QR code component from scratch.
+A fun challenge from frontendmentor.io where I built a responsive QR code component from scratch.
 
 #### 🐍 [Github Readme Auto Updater](https://github.com/RuneMeUp99/github-readme-auto-update)  
 A Python script that automatically updates your GitHub profile README with information about your repositories, so you don't have to manually keep it updated.
