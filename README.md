@@ -4,7 +4,7 @@ I'm a developer with a passion for **Python** and **front-end development**. I l
 
 ### 🚀 Recent Projects
 
-#### 💻 [The Complete Web Developer in 2025: Zero to Mastery](https://github.com/RuneMeUp99/The-Complete-Web-Developer-in-2025-Zero-to-Mastery) - In Progress 🟡
+#### 💻 [The Complete Web Developer in 2025: Zero to Mastery](https://github.com/RuneMeUp99/The-Complete-Web-Developer-in-2025-Zero-to-Mastery) - In Progress (11%) 🟡
 A comprehensive web development learning journey based on the "Zero to Mastery" curriculum, covering modern web technologies and best practices.
 
 #### 📦 [QR Code Component](https://github.com/RuneMeUp99/Frontend-Mentor-QR-code-component)  
