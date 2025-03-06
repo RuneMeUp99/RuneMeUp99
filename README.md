@@ -4,6 +4,9 @@ I'm a developer with a passion for **Python** and **front-end development**. I l
 
 ### 🚀 Recent Projects
 
+#### 💻 [The Complete Web Developer in 2025: Zero to Mastery](https://github.com/RuneMeUp99/The-Complete-Web-Developer-in-2025-Zero-to-Mastery) - In Progress 🟡
+A comprehensive web development learning journey based on the "Zero to Mastery" curriculum, covering modern web technologies and best practices.
+
 #### 📦 [QR Code Component](https://github.com/RuneMeUp99/Frontend-Mentor-QR-code-component)  
 A fun challenge from frontendmentor.io where I built a responsive QR code component from scratch.
 
@@ -21,7 +24,7 @@ A tool for getting started with RuneLite plugin development. It generates all th
 - **Databases**: -
 - **IDE**: Visual Studio Code
 
-### 🌱 Currently Learning
+### 🌱 Currently Working On
 
 - **[I Just Want To Get Hired | Zero to Mastery](https://zerotomastery.io/career-paths/i-just-want-to-get-hired/)**
 
